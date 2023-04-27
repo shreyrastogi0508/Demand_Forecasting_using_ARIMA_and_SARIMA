@@ -11,8 +11,3 @@ This is a minor project focused on demand forecasting using machine learning tec
 4) Matplotlib 
 5) Seaborn
 6) pmdarima
-
-
-
-License
-This project is licensed under the MIT License. See the LICENSE file for more details.
